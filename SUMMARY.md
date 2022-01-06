@@ -56,3 +56,5 @@
 
 * [Vi](tools/vi.md)
 * [RegExp](tools/regexp.md)
+* [Vagrant](tools/vagrant.md)
+* [Jenkins](tools/jenkins.md)
