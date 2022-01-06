@@ -10,3 +10,5 @@
 * [Operations](java/operations.md)
 * [Immutability](java/immutability.md)
 * [Stream api](java/stream-api.md)
+* [HashMap](java/hashmap.md)
+* [Inner Classes](java/inner-classes.md)
