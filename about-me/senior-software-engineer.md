@@ -6,11 +6,13 @@ description: >-
 
 # Senior Software Engineer
 
-### Work Experience
+{% embed url="https://standardresume.co/r/S5Dd9IoOs9XtmX2Uybzz8" %}
 
-### Software Engineer II                   Epam Systems&#x20;
+### <mark style="color:purple;">Work Experience ------------------------------------------------</mark>
 
-#### 2020 - Current
+{% hint style="info" %}
+#### Software Engineer II                   Epam Systems                                                         2020 - Current
+{% endhint %}
 
 AlfaBank New Internet Bank team
 
@@ -25,9 +27,11 @@ AlfaBank New Internet Bank team
 * Wrote **Ansible scripts** for Kafka cluster 4 brokers and 3 zookeeper nodes deploying and restarting
 * Performed 20+ technical interviews.
 
-### Software Engineer I - II               Sidenis, SwissRe
 
-#### 2018 - 2020
+
+{% hint style="info" %}
+#### Software Engineer I - II               Sidenis, SwissRe                                                           2018 - 2020
+{% endhint %}
 
 Integrated Capacity Request Form - 11 people international team
 
@@ -36,24 +40,30 @@ Integrated Capacity Request Form - 11 people international team
 * Developed Pdf reports generation microservice. Week, month, quarter reports for more than 1000 underwriters.
 * Carried out exchange rate service from the monolith, which decrease the count of related bugs to 90%. 12 internal projects started using it.
 
-### Software Engineer                         Tomsk State University IT Department
 
-#### 2017 - 2018
+
+{% hint style="info" %}
+#### Software Engineer                         Tomsk State University IT Department              2017 - 2018
+{% endhint %}
 
 SCADA Infinity team
 
 * Developed module for compress sensors measurements, about 10Gb data per day
 * Developed daemon application for network mapping used SNMP protocol in L2 network 50+ hosts
 
-### Software Developer Intern         Tomsk State University IT Department
 
-#### 2017 summer
+
+{% hint style="info" %}
+#### Software Developer Intern         Tomsk State University IT Department          2017 summer
+{% endhint %}
 
 SCADA Infinity team
 
 * Developed UI for SCADA desktop application based on C++/Qt framework.
 
-### Education
+
+
+### <mark style="color:purple;">Education -------------------------------------------------------</mark>
 
 #### Master degree - 2016 - 2018
 
@@ -63,7 +73,9 @@ SCADA Infinity team
 
 [Tomsk State University of Control Systems and Radioelectronics](http://tusur.ru)
 
-### TECHNOLOGIES AND LANGUAGES
+
+
+### <mark style="color:purple;">Technologies and Languages -----------------------------------</mark>
 
 * Languages:                                       Java, Kotlin
 * Technologies:                                   Spring, Kubernetes, Mesos, AWS, Ansible, Jenkins, Bamboo, Kafka, Redis, Git
