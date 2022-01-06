@@ -27,7 +27,7 @@ Components:
 
 ![](<../../.gitbook/assets/image (4).png>)
 
-* client-server
+* **client-server**
 * client contains the UI and the business logic
 * database hosted and control by business
 * application code vulnerable to being accessed by a third person
