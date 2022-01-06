@@ -38,3 +38,5 @@
 * [Distributed transactions](design/distributed-transactions.md)
 * [Authentication & Authorization](design/authentication-and-authorization.md)
 * [Microservice architecture](design/microservice-architecture.md)
+* [Scalability & System Design for Developers](design/scalability-and-system-design-for-developers/README.md)
+  * [N-Tiers architecture](design/scalability-and-system-design-for-developers/n-tiers-architecture.md)
