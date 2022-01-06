@@ -8,3 +8,5 @@
 * [Primitives](java/primitives.md)
 * [Class Object](java/class-object.md)
 * [Operations](java/operations.md)
+* [Immutability](java/immutability.md)
+* [Stream api](java/stream-api.md)
