@@ -49,3 +49,10 @@
 * [OSI Model](web/osi-model.md)
 * [REST](web/rest.md)
 * [SOAP](web/soap.md)
+* [xss csrf cors](web/xss-csrf-cors.md)
+* [Websocket](web/websocket.md)
+
+## Tools
+
+* [Vi](tools/vi.md)
+* [RegExp](tools/regexp.md)
