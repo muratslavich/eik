@@ -22,3 +22,15 @@
   * [Stream api](java/java-core/stream-api.md)
   * [Immutability](java/java-core/immutability.md)
   * [Operations](java/java-core/operations.md)
+
+## Kotlin
+
+* [Page 2](kotlin/page-2.md)
+
+## JavaScript
+
+* [Page 1](javascript/page-1.md)
+
+## Design
+
+* [UML](design/uml.md)
