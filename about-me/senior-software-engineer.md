@@ -8,7 +8,7 @@ description: >-
 
 {% embed url="https://standardresume.co/r/S5Dd9IoOs9XtmX2Uybzz8" %}
 
-### <mark style="color:purple;">Work Experience ------------------------------------------------</mark>
+### <mark style="color:purple;">Work Experience</mark>
 
 {% hint style="info" %}
 #### Software Engineer II                   Epam Systems                                                         2020 - Current
@@ -63,7 +63,7 @@ SCADA Infinity team
 
 
 
-### <mark style="color:purple;">Education -------------------------------------------------------</mark>
+### <mark style="color:purple;">Education</mark>
 
 #### Master degree - 2016 - 2018
 
@@ -75,7 +75,7 @@ SCADA Infinity team
 
 
 
-### <mark style="color:purple;">Technologies and Languages -----------------------------------</mark>
+### <mark style="color:purple;">Technologies and Languages</mark>
 
 * Languages:                                       Java, Kotlin
 * Technologies:                                   Spring, Kubernetes, Mesos, AWS, Ansible, Jenkins, Bamboo, Kafka, Redis, Git
