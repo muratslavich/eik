@@ -1,5 +1,5 @@
 # Complexity
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 ![](http://i.imgur.com/gb66dmb.png)
