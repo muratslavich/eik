@@ -12,3 +12,7 @@
 * [Stream api](java/stream-api.md)
 * [HashMap](java/hashmap.md)
 * [Inner Classes](java/inner-classes.md)
+* [Compilation and Running](java/compilation-and-running.md)
+* [OOP](java/oop.md)
+* [Equals & HashCode](java/equals-and-hashcode.md)
+* [Complexity](java/complexity.md)
