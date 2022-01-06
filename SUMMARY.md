@@ -34,3 +34,7 @@
 ## Design
 
 * [UML](design/uml.md)
+* [Transactions](design/transactions.md)
+* [Distributed transactions](design/distributed-transactions.md)
+* [Authentication & Authorization](design/authentication-and-authorization.md)
+* [Microservice architecture](design/microservice-architecture.md)
