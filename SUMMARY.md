@@ -40,3 +40,9 @@
 * [Microservice architecture](design/microservice-architecture.md)
 * [Scalability & System Design for Developers](design/scalability-and-system-design-for-developers/README.md)
   * [N-Tiers architecture](design/scalability-and-system-design-for-developers/n-tiers-architecture.md)
+  * [Proxies](design/scalability-and-system-design-for-developers/proxies.md)
+
+## Web
+
+* [HTTP](web/http.md)
+* [HTTP Caching](web/http-caching.md)
