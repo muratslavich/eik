@@ -16,3 +16,4 @@
 * [OOP](java/oop.md)
 * [Equals & HashCode](java/equals-and-hashcode.md)
 * [Complexity](java/complexity.md)
+* [Generics](java/generics.md)
