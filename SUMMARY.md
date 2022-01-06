@@ -6,3 +6,5 @@
 ## Java
 
 * [Primitives](java/primitives.md)
+* [Class Object](java/class-object.md)
+* [Operations](java/operations.md)
