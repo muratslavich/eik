@@ -2,7 +2,7 @@
 
 ![Image result for java collections](https://www.sitesbay.com/collection-framework/images/collection-framework-hierarchy.png)
 
-![Image result for java collections map](https://www.mainjava.com/wp-content/uploads/2016/08/map-interface.png)
+![](https://proft.me/media/java/java\_collection.png)
 
 Collection interface:
 
