@@ -88,6 +88,7 @@
 * [Scalability & System Design for Developers](design/scalability-and-system-design-for-developers/README.md)
   * [N-Tiers architecture](design/scalability-and-system-design-for-developers/n-tiers-architecture.md)
   * [Proxies](design/scalability-and-system-design-for-developers/proxies.md)
+  * [API gateway](design/scalability-and-system-design-for-developers/api-gateway.md)
 * [Logging](design/logging.md)
 
 ## Web

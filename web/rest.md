@@ -1,6 +1,6 @@
 # REST
 
-REpresentational State Transfer - architecture, principles for building distributed services.\
+Representational State Transfer - architecture, principles for building distributed services.\
 
 
 * Масштабируемости взаимодействия компонентов системы (приложения)
@@ -30,7 +30,7 @@ REpresentational State Transfer - architecture, principles for building distribu
 ## Что такое RESTful
 
 * Client-Server
-* Stateless - server shouldn't keep any information about client. All required information keep in request.
+* **Stateless** - server shouldn't keep any information about the client. All required information keep in request. So, every time a client interacts with the backend, the client has to send all required information, for example, authentication information.
 * Cache - all request mark as cachable or not.
 * Uniform interface - between services
   * _Identification of resources - URI._ Each resource in REST must have URI.
@@ -45,5 +45,22 @@ REpresentational State Transfer - architecture, principles for building distribu
 
 ## Идемпотентность
 
-С точки зрения RESTful-сервиса, операция (или вызов сервиса) идемпотентна тогда, когда клиенты могут делать один и тот же вызов неоднократно при одном и том же результате на сервере. Другими словами, создание большого количества идентичных запросов имеет такой же эффект, как и один запрос.\
-\
+С точки зрения RESTful-сервиса, операция (или вызов сервиса) идемпотентна тогда, когда клиенты могут делать один и тот же вызов неоднократно при одном и том же результате на сервере. Другими словами, создание большого количества идентичных запросов имеет такой же эффект, как и один запрос.
+
+POST not idempotents
+
+### REST endpoint
+
+* endpoints are nouns
+* use plural form&#x20;
+* versions in uri or in headers
+
+• /farmers \
+• /farmers/{farmer\_id} \
+• /crops \
+• /crops/{crop\_id}\
+\- host/v2/farmers
+
+GET /accounts/5555 HTTP/1.1 \
+Accept: application/vnd.farmers.v2+json
+
