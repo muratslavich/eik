@@ -29,7 +29,23 @@
 
 ## JavaScript
 
-* [Page 1](javascript/page-1.md)
+* [HTML & CSS](javascript/html-and-css/README.md)
+  * [\<html>](javascript/html-and-css/less-than-html-greater-than.md)
+  * [Таблицы](javascript/html-and-css/tablicy.md)
+  * [Структура\_html\_документа](javascript/html-and-css/struktura\_html\_dokumenta.md)
+  * [Разметка\_текста](javascript/html-and-css/razmetka\_teksta.md)
+  * [Ссылки\_и\_изображения](javascript/html-and-css/ssylki\_i\_izobrazheniya.md)
+* [JavaScript](javascript/javascript/README.md)
+  * [const, let, var](javascript/javascript/const-let-var.md)
+  * [JS syntax](javascript/javascript/js-syntax.md)
+  * [npm](javascript/javascript/npm.md)
+  * [Node REPL](javascript/javascript/node-repl.md)
+  * [array\_destructuring](javascript/javascript/array\_destructuring.md)
+  * [Context and this](javascript/javascript/context-and-this.md)
+* [React](javascript/react/README.md)
+  * [Setup react project](javascript/react/setup-react-project.md)
+  * [React component](javascript/react/react-component.md)
+  * [JSX подробности](javascript/react/jsx-podrobnosti.md)
 
 ## Design
 
