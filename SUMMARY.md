@@ -247,3 +247,4 @@
 * [user/group permissions](linux/user-group-permissions.md)
 * [Windows port process kill](linux/windows-port-process-kill.md)
 * [WSL doesn't have internet](linux/wsl-doesnt-have-internet.md)
+* [WSL2 connect to windows localhost:port](linux/wsl2-connect-to-windows-localhost-port.md)
