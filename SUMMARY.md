@@ -10,7 +10,6 @@
   * [Java Collections](java/collections/java-collections.md)
   * [Java способы перебора коллекции Map](java/collections/java-sposoby-perebora-kollekcii-map.md)
   * [Untitled Note](java/collections/untitled-note.md)
-  * [Список всех коллекций](java/collections/spisok-vsekh-kollekcii.md)
 * [Java Core](java/java-core/README.md)
   * [Primitives](java/java-core/primitives.md)
   * [Class Object](java/java-core/class-object.md)
