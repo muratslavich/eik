@@ -81,8 +81,8 @@
 ## Design
 
 * [UML](design/uml.md)
-* [Transactions](design/transactions.md)
-* [Distributed transactions](design/distributed-transactions.md)
+* [Transactions](design/transactions/README.md)
+  * [Distributed transactions](design/transactions/distributed-transactions.md)
 * [Authentication & Authorization](design/authentication-and-authorization.md)
 * [Microservice architecture](design/microservice-architecture.md)
 * [Scalability & System Design for Developers](design/scalability-and-system-design-for-developers/README.md)
