@@ -155,20 +155,6 @@
   * [Kubernetes Basic](tools/kubernetes/kubernetes-basic.md)
 * [Hibernate](tools/hibernate.md)
 
-## English
-
-* [Page 1](english/page-1/README.md)
-  * [Present Simple](english/page-1/present-simple.md)
-  * [Phrases](english/page-1/phrases.md)
-  * [Passive](english/page-1/passive.md)
-  * [Used to](english/page-1/used-to.md)
-  * [Tenses](english/page-1/tenses.md)
-  * [Present Continuous vs Present Simple](english/page-1/present-continuous-vs-present-simple.md)
-  * [Untitled Note](english/page-1/untitled-note.md)
-  * [Present continuous](english/page-1/present-continuous.md)
-  * [Perfect tenses](english/page-1/perfect-tenses.md)
-  * [Story telling](english/page-1/story-telling.md)
-
 ***
 
 * [Technical interview](technical-interview.md)
@@ -212,10 +198,6 @@
 * [Trees & Graphs](algorithms/trees-and-graphs.md)
 * [Strings](algorithms/strings.md)
 
-***
-
-* [Sneakers](sneakers.md)
-
 ## C++
 
 * [C++](c++/c++/README.md)
@@ -248,3 +230,26 @@
 * [Windows port process kill](linux/windows-port-process-kill.md)
 * [WSL doesn't have internet](linux/wsl-doesnt-have-internet.md)
 * [WSL2 connect to windows localhost:port](linux/wsl2-connect-to-windows-localhost-port.md)
+
+***
+
+* [Sneakers](sneakers.md)
+
+## English
+
+* [Page 1](english/page-1/README.md)
+  * [Present Simple](english/page-1/present-simple.md)
+  * [Phrases](english/page-1/phrases.md)
+  * [Passive](english/page-1/passive.md)
+  * [Used to](english/page-1/used-to.md)
+  * [Tenses](english/page-1/tenses.md)
+  * [Present Continuous vs Present Simple](english/page-1/present-continuous-vs-present-simple.md)
+  * [Untitled Note](english/page-1/untitled-note.md)
+  * [Present continuous](english/page-1/present-continuous.md)
+  * [Perfect tenses](english/page-1/perfect-tenses.md)
+  * [Story telling](english/page-1/story-telling.md)
+
+***
+
+* [Diary](diary/README.md)
+  * [week 1](diary/week-1.md)
