@@ -193,6 +193,25 @@
 * [нагрузка](testing/nagruzka.md)
 * [Тестирование](testing/testirovanie.md)
 
+## Algorithms
+
+* [Alg](algorithms/alg/README.md)
+  * [BinarySearch](algorithms/alg/binarysearch.md)
+  * [Recursion](algorithms/alg/recursion.md)
+  * [Union-Find](algorithms/alg/union-find.md)
+  * [Графы от Седжвига](algorithms/alg/grafy-ot-sedzhviga.md)
+  * [строке](algorithms/alg/stroke.md)
+  * [Интересные ссылки](algorithms/alg/interesnye-ssylki.md)
+  * [минимального числа](algorithms/alg/minimalnogo-chisla.md)
+  * [HashMap](algorithms/alg/hashmap.md)
+  * [седжвик](algorithms/alg/sedzhvik.md)
+  * [Сортировка массива по убыванию](algorithms/alg/sortirovka-massiva-po-ubyvaniyu.md)
+  * [Структуры данных](algorithms/alg/struktury-dannykh.md)
+* [Sorting](algorithms/sorting.md)
+* [Searching](algorithms/searching.md)
+* [Trees & Graphs](algorithms/trees-and-graphs.md)
+* [Strings](algorithms/strings.md)
+
 ***
 
 * [Sneakers](sneakers.md)
