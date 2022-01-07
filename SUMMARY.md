@@ -112,3 +112,21 @@
   * [Glossary](tools/kubernetes/glossary.md)
   * [Kubernetes](tools/kubernetes/kubernetes.md)
   * [Kubernetes Basic](tools/kubernetes/kubernetes-basic.md)
+
+## English
+
+* [Page 1](english/page-1/README.md)
+  * [Present Simple](english/page-1/present-simple.md)
+  * [Phrases](english/page-1/phrases.md)
+  * [Passive](english/page-1/passive.md)
+  * [Used to](english/page-1/used-to.md)
+  * [Tenses](english/page-1/tenses.md)
+  * [Present Continuous vs Present Simple](english/page-1/present-continuous-vs-present-simple.md)
+  * [Untitled Note](english/page-1/untitled-note.md)
+  * [Present continuous](english/page-1/present-continuous.md)
+  * [Perfect tenses](english/page-1/perfect-tenses.md)
+  * [Story telling](english/page-1/story-telling.md)
+
+***
+
+* [Technical interview](technical-interview.md)
