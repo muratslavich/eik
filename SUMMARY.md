@@ -5,6 +5,12 @@
 
 ## Java
 
+* [Collections](java/collections/README.md)
+  * [ArrayList vs. LinkedList](java/collections/arraylist-vs.-linkedlist.md)
+  * [Java Collections](java/collections/java-collections.md)
+  * [Java способы перебора коллекции Map](java/collections/java-sposoby-perebora-kollekcii-map.md)
+  * [Untitled Note](java/collections/untitled-note.md)
+  * [Список всех коллекций](java/collections/spisok-vsekh-kollekcii.md)
 * [Java Core](java/java-core/README.md)
   * [Primitives](java/java-core/primitives.md)
   * [Class Object](java/java-core/class-object.md)
@@ -22,6 +28,21 @@
   * [Stream api](java/java-core/stream-api.md)
   * [Immutability](java/java-core/immutability.md)
   * [Operations](java/java-core/operations.md)
+* [Application servers](java/application-servers.md)
+* [Build tools](java/build-tools/README.md)
+  * [Gradle](java/build-tools/gradle.md)
+  * [Maven](java/build-tools/maven.md)
+  * [java cli](java/build-tools/java-cli.md)
+* [Certification](java/certification.md)
+* [Concurrency](java/concurrency.md)
+* [Garbage Collector](java/garbage-collector.md)
+* [Java Persistence API](java/java-persistence-api.md)
+* [JNDI](java/jndi.md)
+* [Java Memory Model](java/java-memory-model.md)
+* [Java Messaging System](java/java-messaging-system.md)
+* [Java Management eXtension](java/java-management-extension.md)
+* [Serialization](java/serialization.md)
+* [Validation](java/validation.md)
 
 ## Kotlin
 
@@ -67,6 +88,7 @@
 * [Scalability & System Design for Developers](design/scalability-and-system-design-for-developers/README.md)
   * [N-Tiers architecture](design/scalability-and-system-design-for-developers/n-tiers-architecture.md)
   * [Proxies](design/scalability-and-system-design-for-developers/proxies.md)
+* [Logging](design/logging.md)
 
 ## Web
 
@@ -131,6 +153,7 @@
   * [Glossary](tools/kubernetes/glossary.md)
   * [Kubernetes](tools/kubernetes/kubernetes.md)
   * [Kubernetes Basic](tools/kubernetes/kubernetes-basic.md)
+* [Hibernate](tools/hibernate.md)
 
 ## English
 
@@ -149,3 +172,27 @@
 ***
 
 * [Technical interview](technical-interview.md)
+
+## Spring
+
+* [Custom Annotation](spring/custom-annotation.md)
+* [Properties](spring/properties.md)
+* [Proxying mechanism](spring/proxying-mechanism.md)
+* [Spring Aop](spring/spring-aop.md)
+* [Spring Boot](spring/spring-boot.md)
+* [Spring Cloud](spring/spring-cloud.md)
+* [Spring core](spring/spring-core.md)
+* [Spring Data](spring/spring-data.md)
+* [Spring Feign](spring/spring-feign.md)
+* [Spring Jdbc](spring/spring-jdbc.md)
+* [Spring Security](spring/spring-security.md)
+* [Spring transactions](spring/spring-transactions.md)
+
+## Testing
+
+* [нагрузка](testing/nagruzka.md)
+* [Тестирование](testing/testirovanie.md)
+
+***
+
+* [Sneakers](sneakers.md)

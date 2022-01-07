@@ -8,7 +8,7 @@
 
 ### 3 data centers
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 * rack.id=\<location>
 * replica.selector.class= \<ReplicaSelector impl>
@@ -20,12 +20,12 @@
 
 ### 2 data centers
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (2).png>)
 
 * If dc1 goes down zookeeper wouldn't keep the quorum consensus.
 * Outage.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 * Hierarchical zookeeper quorum.
 * Brokers configured to talk with local zk's.
@@ -36,9 +36,9 @@
 
 
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 * ZooKeeper behavior is same as 3DC setup.
 * Replication tradeoffs are the same as 2DC setup.

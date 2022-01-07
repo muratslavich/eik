@@ -25,7 +25,7 @@ Components:
 
 ### Two-tier application
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1).png>)
 
 * **client-server**
 * client contains the UI and the business logic
@@ -46,7 +46,7 @@ Application makes calls to the server only for update state.
 
 ### Three-tier application
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 {% hint style="info" %}
 UI, application logic and database lie on different machines
