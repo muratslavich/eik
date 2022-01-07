@@ -25,7 +25,9 @@
 
 ## Kotlin
 
-* [Page 2](kotlin/page-2.md)
+* [Syntax](kotlin/syntax.md)
+* [Coroutines](kotlin/coroutines.md)
+* [Extension functions](kotlin/extension-functions.md)
 
 ## JavaScript
 
