@@ -215,3 +215,35 @@
 ***
 
 * [Sneakers](sneakers.md)
+
+## C++
+
+* [C++](c++/c++/README.md)
+  * [books cpp](c++/c++/books-cpp.md)
+  * [c++ algs](c++/c++/c++-algs.md)
+  * [c++](c++/c++/c++.md)
+  * [escape\_послежовательности](c++/c++/escape\_poslezhovatelnosti.md)
+  * [library work](c++/c++/library-work.md)
+  * [main (argc, argv)](c++/c++/main-argc-argv.md)
+  * [qmake](c++/c++/qmake.md)
+  * [qt](c++/c++/qt.md)
+  * [просмотре проекта](c++/c++/prosmotre-proekta.md)
+  * [Untitled Note](c++/c++/untitled-note.md)
+  * [Конструкторы С++](c++/c++/konstruktory-s++.md)
+  * [уКАЗАТЕЛИ](c++/c++/ukazateli.md)
+  * [компиляция с++](c++/c++/kompilyaciya-s++.md)
+
+## Linux
+
+* [Enable chmod in WSL](linux/enable-chmod-in-wsl.md)
+* [Files and Directories](linux/files-and-directories.md)
+* [Linux network instruments](linux/linux-network-instruments.md)
+* [Memory and Space](linux/memory-and-space.md)
+* [nc NetCat](linux/nc-netcat.md)
+* [Shorten command line in wsl](linux/shorten-command-line-in-wsl.md)
+* [SSH](linux/ssh.md)
+* [systemd](linux/systemd.md)
+* [Ubuntu](linux/ubuntu.md)
+* [user/group permissions](linux/user-group-permissions.md)
+* [Windows port process kill](linux/windows-port-process-kill.md)
+* [WSL doesn't have internet](linux/wsl-doesnt-have-internet.md)
