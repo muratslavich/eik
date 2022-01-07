@@ -4,20 +4,20 @@
 
 [https://zookeeper.apache.org/doc/r3.4.14/zookeeperAdmin.html#sc\_zkCommands](https://zookeeper.apache.org/doc/r3.4.14/zookeeperAdmin.html#sc\_zkCommands)
 
-* _**conf**_
-* _cons_
-* _crst_
-* _dump_
-* _envi_
-* _ruok_
-* _srst_
-* _srvr_
-* _stat_
-* _wchs_
-* _wchc_
-* _dirs_
-* _wchp_
-* _mntr_
+* _**conf**_** ** : Print details about serving configuration.
+* _cons_ : List full  connection/session details for all clients connected to this server.  Includes information on numbers of packets received/sent, session id,  operation latencies, last operation performed, etc...
+* _crst_ : Reset connection/session statistics for all connections.
+* _dump_ : Lists the outstanding sessions and ephemeral nodes. This only works on the leader.
+* _envi_ : Print details about serving environment
+* _ruok_ : Tests if server is running in a non-error  state. The server will respond with imok if it is running. Otherwise it  will not respond at all. A response of "imok" does not necessarily  indicate that the server has joined the quorum, just that the server  process is active and bound to the specified client port. Use "stat" for  details on state wrt quorum and client connection information.
+* _srst_ : Reset server statistics.
+* _srvr_ : Lists full details for the server.
+* _stat_ : Lists brief details for the server and connected clients.
+* _wchs_ : Lists brief information on watches for the server.
+* _wchc_ : Lists detailed  information on watches for the server, by session. This outputs a list  of sessions(connections) with associated watches (paths). Note,  depending on the number of watches this operation may be expensive (ie  impact server performance), use it carefully.
+* _dirs_ : Shows the total size of snapshot and log files in bytes
+* _wchp_ : Lists detailed  information on watches for the server, by path. This outputs a list of  paths (znodes) with associated sessions. Note, depending on the number  of watches this operation may be expensive (ie impact server  performance), use it carefully.
+* _mntr_ : Outputs a list of variables that could be used for monitoring the health of the cluster.
 
 ```
 // информация о эфемерных нодах
