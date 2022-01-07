@@ -47,6 +47,14 @@
   * [React component](javascript/react/react-component.md)
   * [JSX подробности](javascript/react/jsx-podrobnosti.md)
 
+## Databases
+
+* [Basic](databases/basic/README.md)
+  * [Реляционная\_алгебра](databases/basic/relyacionnaya\_algebra.md)
+  * [Индексы](databases/basic/indeksy.md)
+  * [ПРоектирование](databases/basic/proektirovanie.md)
+  * [Целостность](databases/basic/celostnost.md)
+
 ## Design
 
 * [UML](design/uml.md)
@@ -67,6 +75,15 @@
 * [SOAP](web/soap.md)
 * [xss csrf cors](web/xss-csrf-cors.md)
 * [Websocket](web/websocket.md)
+
+## Clouds
+
+* [AWS](clouds/aws/README.md)
+  * [SSH connect to ec2](clouds/aws/ssh-connect-to-ec2.md)
+  * [AWS cli](clouds/aws/aws-cli.md)
+  * [Overview](clouds/aws/overview.md)
+  * [Install ansible on ec2](clouds/aws/install-ansible-on-ec2.md)
+* [Heroku](clouds/heroku.md)
 
 ## Tools
 
