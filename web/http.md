@@ -80,7 +80,7 @@ If there are no updates on the server, and the client doesn't know that, the cli
 Excessive pulls load the server and potentially can bring it down.&#x20;
 
 * GET
-* Ajax Long polling
+* Ajax
 
 <details>
 
@@ -92,17 +92,16 @@ AJAX uses an _XMLHttpRequest_ object for sending the requests to the server whic
 
 </details>
 
-Time to Live requests - if the client doesn't receive a response connection will be killed.
-
-`Cache-Control: max-age`
+Time to Live (**TTL**) requests - if the client doesn't receive a response connection will be killed. `Cache-Control: max-age`
 
 **HTTP server push** - requests initiated by the server. After the first request, the server keeps the new updates to the client whenever they are available.
 
-In this case, we need to persist the connection for further requests. The connection stays open with the help of Heartbeat Interceptors. Just a **blank request** to prevent killing connection by **the browser**.
+In this case, we need to **persist the connection** for further requests. The connection stays open with the help of Heartbeat Interceptors. Just a **blank request** to prevent killing connection by **the browser**.
 
 It consumes a lot of resources, however vital in specific cases (ex: browser games).
 
-* W[ebsockets](websocket.md)
-* HTML5 Event Source
+* **W**[**ebsockets**](websocket.md) - bidirectional, over TCP, both sides should support it.
+* AJAX **Long polling** - server doesn't return empty response. When connection breaks, has to re-establish it. The connection in long polling stays open a bit longer compared to polling.
+* HTML5 Event Source - SSE server push event to the client. Aft
 * Message queues
 * HTTP streaming
