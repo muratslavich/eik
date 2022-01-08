@@ -2,6 +2,8 @@
 
 [https://habrahabr.ru/post/79038/](https://habrahabr.ru/post/79038/)****
 
+{% embed url="https://www.html5rocks.com/en/tutorials/websockets/basics" %}
+
 **WebSocket** — протокол [полнодуплексной связи](https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%BF%D0%BB%D0%B5%D0%BA%D1%81\_\(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8\)) (может передавать и принимать одновременно) поверх [TCP](https://ru.wikipedia.org/wiki/TCP)-соединения, предназначенный для обмена сообщениями между браузером и веб-сервером в режиме реального времени.\
 Как только ваша страница решила, что она хочет открыть веб сокет на сервер, она создает специальный javascript-объект:\
 

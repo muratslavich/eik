@@ -101,7 +101,7 @@ In this case, we need to **persist the connection** for further requests. The co
 It consumes a lot of resources, however vital in specific cases (ex: browser games).
 
 * **W**[**ebsockets**](websocket.md) - bidirectional, over TCP, both sides should support it.
-* AJAX **Long polling** - server doesn't return empty response. When connection breaks, has to re-establish it. The connection in long polling stays open a bit longer compared to polling.
-* HTML5 Event Source - SSE server push event to the client. Aft
+* AJAX **Long polling** - server doesn't return an empty response. When connection breaks, has to re-establish it. The connection in long polling stays open a bit longer compared to polling.
+* HTML5 Event Source [**Server-Sent Events**](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent\_events) - SSE server push event to the client. Connection should be established by client, the data flow is in one direction.
 * Message queues
-* HTTP streaming
+* HTML5 [HTTP streaming](https://developer.mozilla.org/en-US/docs/Web/API/Streams\_API/Concepts) - for large data over HTTP. Ex: for watching partially downloaded video.

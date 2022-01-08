@@ -88,6 +88,9 @@
   * [N-Tiers architecture](design/scalability-and-system-design-for-developers/n-tiers-architecture.md)
   * [Proxies](design/scalability-and-system-design-for-developers/proxies.md)
   * [API gateway](design/scalability-and-system-design-for-developers/api-gateway.md)
+  * [HTTP request mechanisms](design/scalability-and-system-design-for-developers/http-request-mechanisms.md)
+  * [Client-Side or Server-Side rendering](design/scalability-and-system-design-for-developers/client-side-or-server-side-rendering.md)
+  * [Page 2](design/scalability-and-system-design-for-developers/page-2.md)
 * [Logging](design/logging.md)
 
 ## Web
