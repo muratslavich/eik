@@ -12,7 +12,7 @@
 * No way to add more consumers than partitions, some of them will just be idle.
 * It's a reason to create topics with a large number of partitions.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 * Single consumer in the group - get all messages from all partitions
 
@@ -25,7 +25,7 @@
 * The same count of partitions, each will read from a single partition.
 * More consumers than partitions, some consumers will be idle and get no messages.
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 * If we want to application get all the messages in the topic, ensure the application has its own consumer group.
 

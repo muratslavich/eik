@@ -13,7 +13,7 @@ Components:
 
 ### Single tier application
 
-![](<../../.gitbook/assets/image (9) (1) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1) (1).png>)
 
 * no network latency
 * performance depends on client hardware
@@ -77,7 +77,7 @@ Distributed applications
 
 <summary>Tiers isn't the same with layers</summary>
 
-![](<../../.gitbook/assets/image (7) (1) (1).png>)
+![](<../../.gitbook/assets/image (7) (1) (1) (1).png>)
 
 The layers is the code organizations when tier is physical component separation.
 
