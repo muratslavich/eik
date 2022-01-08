@@ -46,7 +46,7 @@ Application makes calls to the server only for update state.
 
 ### Three-tier application
 
-![](<../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 {% hint style="info" %}
 UI, application logic and database lie on different machines

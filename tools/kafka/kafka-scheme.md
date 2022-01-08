@@ -8,7 +8,7 @@
 
 ### 3 data centers
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 * rack.id=\<location>
 * replica.selector.class= \<ReplicaSelector impl>

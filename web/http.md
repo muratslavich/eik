@@ -8,15 +8,15 @@ Requests are initiated by the recipient.
 
 Application layer protocol that sents over TCP or TLS/TCP.
 
-#### Http is extensible
+#### HTTP is extensible
 
-Http [headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) make it by agreement between a client and a server about headers semantic.
+HTTP [headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) make it by agreement between a client and a server about headers semantic.
 
-#### Http is stateless, but not sessionless
+#### HTTP is stateless, but not sessionless
 
 No state between two requests. To interact between two requests coherently exists HTTP cookies. Cookies allow share context.
 
-#### Http connection
+#### HTTP connection
 
 Connection is controlled on the transport layer by TCP, therefore not managed by HTTP.&#x20;
 
@@ -70,3 +70,39 @@ Content-Type: text/html
 3. [Redirection messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#redirection\_messages) (`300`–`399`)
 4. [Client error responses](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#client\_error\_responses) (`400`–`499`)
 5. [Server error responses](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#server\_error\_responses) (`500`–`599`)
+
+
+
+**HTTP server pull** - GET
+
+If there are no updates on the server, and the client doesn't know that, the client would keep sending requests to the server over and over.
+
+Excessive pulls load the server and potentially can bring it down.&#x20;
+
+* GET
+* Ajax Long polling
+
+<details>
+
+<summary>AJAX - Asynchronous JavaScript and XML</summary>
+
+![](<../.gitbook/assets/image (13).png>)
+
+AJAX uses an _XMLHttpRequest_ object for sending the requests to the server which is built-in the browser and uses JavaScript to update the _HTML DOM_.
+
+</details>
+
+Time to Live requests - if the client doesn't receive a response connection will be killed.
+
+`Cache-Control: max-age`
+
+**HTTP server push** - requests initiated by the server. After the first request, the server keeps the new updates to the client whenever they are available.
+
+In this case, we need to persist the connection for further requests. The connection stays open with the help of Heartbeat Interceptors. Just a **blank request** to prevent killing connection by **the browser**.
+
+It consumes a lot of resources, however vital in specific cases (ex: browser games).
+
+* W[ebsockets](websocket.md)
+* HTML5 Event Source
+* Message queues
+* HTTP streaming
