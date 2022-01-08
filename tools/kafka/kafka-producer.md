@@ -38,7 +38,7 @@ Acknowledgment:
   * The message won't be lost.
   * Longest waiting.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 ### Producer configuration - [https://kafka.apache.org/documentation/#producerconfigs](https://kafka.apache.org/documentation/#producerconfigs)
 

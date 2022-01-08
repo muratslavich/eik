@@ -16,7 +16,7 @@
 
 * Single consumer in the group - get all messages from all partitions
 
-![](<../../.gitbook/assets/image (11) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1).png>)
 
 * Each consumer in the group gets messages only from his own subset of partitions
 

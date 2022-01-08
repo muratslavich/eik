@@ -92,7 +92,7 @@ AJAX uses an _XMLHttpRequest_ object for sending the requests to the server whic
 
 </details>
 
-Time to Live (**TTL**) requests - if the client doesn't receive a response connection will be killed. `Cache-Control: max-age`
+Time to Live (**TTL**) requests - if the client doesn't receive a response connection will be killed by the browser. `Cache-Control: max-age`
 
 **HTTP server push** - requests initiated by the server. After the first request, the server keeps the new updates to the client whenever they are available.
 
@@ -101,7 +101,7 @@ In this case, we need to **persist the connection** for further requests. The co
 It consumes a lot of resources, however vital in specific cases (ex: browser games).
 
 * **W**[**ebsockets**](websocket.md) - bidirectional, over TCP, both sides should support it.
-* AJAX **Long polling** - server doesn't return an empty response. When connection breaks, has to re-establish it. The connection in long polling stays open a bit longer compared to polling.
+* **Long polling** - server doesn't return an empty response and hold connection. When connection breaks (because of TTL), the client has to re-establish it (browser do it automatically). The connection in long polling **stays open a bit longer** compared to polling.
 * HTML5 Event Source [**Server-Sent Events**](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent\_events) - SSE server push event to the client. Connection should be established by client, the data flow is in one direction.
 * Message queues
 * HTML5 [HTTP streaming](https://developer.mozilla.org/en-US/docs/Web/API/Streams\_API/Concepts) - for large data over HTTP. Ex: for watching partially downloaded video.
