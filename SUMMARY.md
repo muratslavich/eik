@@ -91,6 +91,7 @@
   * [HTTP request mechanisms](design/scalability-and-system-design-for-developers/http-request-mechanisms.md)
   * [Client-Side or Server-Side rendering](design/scalability-and-system-design-for-developers/client-side-or-server-side-rendering.md)
   * [Vertical and Horizontal Scaling](design/scalability-and-system-design-for-developers/vertical-and-horizontal-scaling.md)
+  * [Application performance](design/scalability-and-system-design-for-developers/application-performance.md)
   * [Page 2](design/scalability-and-system-design-for-developers/page-2.md)
 * [Logging](design/logging.md)
 
