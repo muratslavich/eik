@@ -92,6 +92,7 @@
   * [Client-Side or Server-Side rendering](design/scalability-and-system-design-for-developers/client-side-or-server-side-rendering.md)
   * [Vertical and Horizontal Scaling](design/scalability-and-system-design-for-developers/vertical-and-horizontal-scaling.md)
   * [Application performance](design/scalability-and-system-design-for-developers/application-performance.md)
+  * [High Availability](design/scalability-and-system-design-for-developers/high-availability.md)
   * [Page 2](design/scalability-and-system-design-for-developers/page-2.md)
 * [Logging](design/logging.md)
 
