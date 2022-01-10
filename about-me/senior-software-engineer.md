@@ -23,8 +23,9 @@ AlfaBank New Internet Bank team
 * Organized team(6 people) workflow from **Kanban to Scrum**, reduce shipping to production time to 2 weeks.
 * Developed Jenkins pipeline script for all projects in New Internet Bank stream (100+ projects).
 * Developed automatization scripts for AWX templates. Projects as code, more than 50 teams use it.
-* Performed zero-downtime business Kafka cluster migration on 2DC 4 hosts scheme. 1,5 Tb data.&#x20;
 * Wrote **Ansible scripts** for Kafka cluster 4 brokers and 3 zookeeper nodes deploying and restarting
+* _<mark style="color:green;">Performed zero-downtime business Kafka cluster migration on 2DC 4 hosts scheme. 1,5 Tb data</mark>_. .......
+* _<mark style="color:green;">Set up cross-service authentication using Keycloack</mark>_
 * Performed 20+ technical interviews.
 
 
