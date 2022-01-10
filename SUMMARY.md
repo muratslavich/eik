@@ -261,3 +261,4 @@
 
 * [Diary](diary/README.md)
   * [week 1](diary/week-1.md)
+  * [week 2](diary/week-2.md)
