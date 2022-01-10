@@ -19,10 +19,11 @@ description: 3.01.22 - 9.01.22
 
 {% tab title="Results" %}
 * organized notes
-* Design course - 3 lesson done
+* Design course - 3 lessons done
 * read Road to React
 * prepared CV
-*
+
+
 {% endtab %}
 {% endtabs %}
 

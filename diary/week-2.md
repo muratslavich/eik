@@ -13,9 +13,11 @@ description: 10.01.22 - 16.01.22
 * [ ] abstract Road to React book
 * [ ] platform template setup
 * [ ] design course
+* [ ] schedule pre-assessment
+* [ ] answer to recruiters
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="result" %}
 
 {% endtab %}
 {% endtabs %}
