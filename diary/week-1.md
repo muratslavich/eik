@@ -38,10 +38,10 @@ To next week
 
 
 
-| ![](<../.gitbook/assets/image (8).png>)  | <p><br></p> |
-| ---------------------------------------- | ----------- |
-| ![](<../.gitbook/assets/image (9).png>)  | <p><br></p> |
-| ![](<../.gitbook/assets/image (13).png>) |             |
-| ![](<../.gitbook/assets/image (14).png>) |             |
-| ![](<../.gitbook/assets/image (15).png>) |             |
+| ![](<../.gitbook/assets/image (8) (1).png>)  | <p><br></p> |
+| -------------------------------------------- | ----------- |
+| ![](<../.gitbook/assets/image (9).png>)      | <p><br></p> |
+| ![](<../.gitbook/assets/image (13) (1).png>) |             |
+| ![](<../.gitbook/assets/image (14).png>)     |             |
+| ![](<../.gitbook/assets/image (15).png>)     |             |
 

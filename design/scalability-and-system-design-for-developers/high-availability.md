@@ -3,6 +3,9 @@
 * High availability HA cluster
 * fault tolerance - is a system’s ability to stay up despite taking hits.
 * redundancy **-** is duplicating the components or instances and keeping extras on standby to take over in case the active instances go down. It is the fail-safe.
+  * disk mirroring or RAID
+  * redundant network connections
+  * redundant nodes
 
 
 
@@ -29,6 +32,53 @@ If service run several instances, a few go offline, the system can work without 
 
 ****
 
-#### _active-passive HA mode_
+### _active-passive HA mode_
 
 An initial set of nodes are active, and a set of redundant nodes are passive, on standby. Active nodes get replaced by passive nodes, in case of failures.
+
+![](<../../.gitbook/assets/image (16).png>)
+
+
+
+### Get rid of single points of failure
+
+Opposite the monolith. Redundant nodes help to have no single points of failure.
+
+
+
+### Monitoring
+
+* real time monitoring detect any bottlenecks or single points of failure
+* self recover automation on the fly
+
+
+
+### active-active HA mode
+
+* no standby or passive instances
+* having a number of similar replication
+* nodes running the workload together
+
+![](<../../.gitbook/assets/image (13).png>)
+
+
+
+### Shared distributed memory
+
+A **single state** across all the nodes in a cluster is achieved with the help of a shared distributed memory and a distributed coordination service like the _Zookeeper_.
+
+![](<../../.gitbook/assets/image (8).png>)
+
+
+
+### Geographical distribution
+
+Geographical zones help with
+
+* reduce latency
+* avoid single point of failure
+* natural disasters
+* data centers workloads
+
+
+

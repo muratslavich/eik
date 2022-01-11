@@ -43,7 +43,7 @@
 * ZooKeeper behavior is same as 3DC setup.
 * Replication tradeoffs are the same as 2DC setup.
 
-![](<../../.gitbook/assets/image (8) (1) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1) (1).png>)
 
 [Note width](https://www.evernote.com/client/web?\_sourcePage=7jVaQtBg9FPiMUD9T65RG\_YvRLZ-1eYO3fqfqRu0fynRL\_1nukNa4gH1t86pc1SP&\_\_fp=CNjcoCCKkE83yWPvuidLz-TPR6I9Jhx8\&hpts=1636349086780\&showSwitchService=true\&usernameImmutable=false\&rememberMe=true\&login=\&login=Sign+in\&login=true\&hptsh=C20w84OffDBq4cI4ezHJ2aCgLDk%3D)
 

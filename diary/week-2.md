@@ -12,7 +12,7 @@ description: 10.01.22 - 16.01.22
 * [ ] start algo course
 * [ ] abstract Road to React book
 * [ ] platform template setup
-* [ ] design course
+* [x] design course
 * [ ] schedule pre-assessment
 * [ ] answer to recruiters
 {% endtab %}

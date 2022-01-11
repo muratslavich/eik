@@ -93,6 +93,7 @@
   * [Vertical and Horizontal Scaling](design/scalability-and-system-design-for-developers/vertical-and-horizontal-scaling.md)
   * [Application performance](design/scalability-and-system-design-for-developers/application-performance.md)
   * [High Availability](design/scalability-and-system-design-for-developers/high-availability.md)
+  * [Load balancing](design/scalability-and-system-design-for-developers/load-balancing.md)
   * [Page 2](design/scalability-and-system-design-for-developers/page-2.md)
 * [Logging](design/logging.md)
 
@@ -105,6 +106,7 @@
 * [SOAP](web/soap.md)
 * [xss csrf cors](web/xss-csrf-cors.md)
 * [Websocket](web/websocket.md)
+* [DNS](web/dns.md)
 
 ## Clouds
 
