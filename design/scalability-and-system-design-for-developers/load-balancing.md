@@ -18,3 +18,9 @@ To ensure LB route requests to up and running servers, LB regularly perform heal
 
 
 
+### DNS load balancing
+
+* Enable [The authoritative server](../../web/dns.md) to return list IP addresses of a domain to the clients.
+* With every request, the authoritative server changes the order of the IP addresses in the list in a round-robin manner.
+* Client send request to the first IP address on the list&#x20;
+* In case if the first doesn't return a response, client can send request to the next one.&#x20;
