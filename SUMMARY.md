@@ -208,6 +208,8 @@
 * [Searching](algorithms/searching.md)
 * [Trees & Graphs](algorithms/trees-and-graphs.md)
 * [Strings](algorithms/strings.md)
+* [Pattern approach](algorithms/pattern-approach/README.md)
+  * [Sliding Window](algorithms/pattern-approach/sliding-window.md)
 
 ## C++
 
