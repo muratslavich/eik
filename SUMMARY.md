@@ -2,6 +2,7 @@
 
 * [About me](README.md)
   * [Senior Software Engineer](about-me/senior-software-engineer.md)
+  * [Stories](about-me/stories.md)
 
 ## Java
 
