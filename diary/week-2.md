@@ -9,12 +9,12 @@ description: 10.01.22 - 16.01.22
 
 
 * [ ] write histories - use competency portal, CV bullets, self-presentation
-* [ ] start algo course
+* [x] start algo course
 * [ ] abstract Road to React book
 * [ ] platform template setup
 * [x] design course
 * [ ] schedule pre-assessment
-* [ ] answer to recruiters
+* [x] answer to recruiters
 {% endtab %}
 
 {% tab title="result" %}
