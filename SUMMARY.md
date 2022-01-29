@@ -194,6 +194,8 @@
 ## Algorithms
 
 * [Alg](algorithms/alg/README.md)
+  * [Trees](algorithms/alg/trees/README.md)
+    * [Binary Tree traverse](algorithms/alg/trees/binary-tree-traverse.md)
   * [BinarySearch](algorithms/alg/binarysearch.md)
   * [Recursion](algorithms/alg/recursion.md)
   * [Union-Find](algorithms/alg/union-find.md)
