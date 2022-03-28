@@ -36,7 +36,7 @@ If service run several instances, a few go offline, the system can work without 
 
 An initial set of nodes are active, and a set of redundant nodes are passive, on standby. Active nodes get replaced by passive nodes, in case of failures.
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (1).png>)
 
 
 
