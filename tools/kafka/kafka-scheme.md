@@ -25,7 +25,7 @@
 * If dc1 goes down zookeeper wouldn't keep the quorum consensus.
 * Outage.
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 * Hierarchical zookeeper quorum.
 * Brokers configured to talk with local zk's.
@@ -38,7 +38,7 @@
 
 ![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (10) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (1).png>)
 
 * ZooKeeper behavior is same as 3DC setup.
 * Replication tradeoffs are the same as 2DC setup.
