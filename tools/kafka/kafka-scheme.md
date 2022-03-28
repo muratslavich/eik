@@ -2,7 +2,7 @@
 
 ### 3zk - 3brokers
 
-![](<../../.gitbook/assets/image (9) (1) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1) (1).png>)
 
 ***
 
@@ -38,7 +38,7 @@
 
 ![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (10) (1) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (1) (1).png>)
 
 * ZooKeeper behavior is same as 3DC setup.
 * Replication tradeoffs are the same as 2DC setup.

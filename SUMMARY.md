@@ -6,6 +6,7 @@
 
 ## Java
 
+* [Java versions](java/java-versions.md)
 * [Collections](java/collections/README.md)
   * [ArrayList vs. LinkedList](java/collections/arraylist-vs.-linkedlist.md)
   * [Java Collections](java/collections/java-collections.md)
@@ -174,6 +175,7 @@
 
 ## Spring
 
+* [Spring Framework versions](spring/spring-framework-versions.md)
 * [Custom Annotation](spring/custom-annotation.md)
 * [Properties](spring/properties.md)
 * [Proxying mechanism](spring/proxying-mechanism.md)

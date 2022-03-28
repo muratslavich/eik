@@ -6,7 +6,7 @@ description: Logstash-elasticsearch-kibana
 
 ![](<../.gitbook/assets/image (1).png>)
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 ### **logstash**&#x20;
 
