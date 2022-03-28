@@ -55,3 +55,5 @@ Or adding Kafka processing
 
 &#x20;
 
+![](<../.gitbook/assets/image (4).png>)
+

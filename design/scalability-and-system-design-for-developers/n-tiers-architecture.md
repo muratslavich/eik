@@ -25,7 +25,7 @@ Components:
 
 ### Two-tier application
 
-![](<../../.gitbook/assets/image (4) (1) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 * **client-server**
 * client contains the UI and the business logic

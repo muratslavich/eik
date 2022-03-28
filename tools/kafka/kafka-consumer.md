@@ -20,7 +20,7 @@
 
 * Each consumer in the group gets messages only from his own subset of partitions
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1).png>)
 
 * The same count of partitions, each will read from a single partition.
 * More consumers than partitions, some consumers will be idle and get no messages.
